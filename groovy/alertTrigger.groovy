@@ -1,6 +1,10 @@
-@Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7.1')
+// @Grab(group='commons-collections', module='commons-collections', version='3.2.1')
+// @Grab(group='commons-lang', module='commons-lang', version='2.4')
+// @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7.1')
+
 import groovy.json.JsonSlurper
 import groovy.json.JsonOutput
+
 
 // Simulated incoming event
 def incomingEvent = [
