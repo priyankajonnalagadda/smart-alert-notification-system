@@ -1,0 +1,10 @@
+[
+  {
+    "service": "PaymentGateway",
+    "severity": "CRITICAL"
+  },
+  {
+    "service": "LoginService",
+    "severity": "HIGH"
+  }
+]
